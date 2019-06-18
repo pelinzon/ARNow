@@ -7,10 +7,10 @@ This is one of my first projects, created in April 2018. Unfortunately, I couldn
 The project is inspired by Amnesty International’s 2013 campaign *“It’s not happening here, but it’s happening now”*. Albeit small, hopefully it can serve as a step forward towards change.
 
 ## What I’ve Learned
-- To use ARKit
-- To use SpriteKit
-- To present 2D elements in Augmented Reality
-- To better empathize with real world issues
+- How to use ARKit
+- How to use SpriteKit
+- How to present 2D elements in Augmented Reality
+- How to better empathize with real world issues
 
 ## Requirements
 - iOS 11+
